@@ -3,14 +3,4 @@ This is a repo created for beginners to learn and understand how to start contri
 
 # Contributors:
 
-<table>
- <tr>
-
-   <td align="center">
-<a href="https://github.com/pb-10"><img src="https://avatars2.githubusercontent.com/u/43945352" width="64px;" alt=""/><br/>
-<sub><b>Pranit Brahmbhatt</b></sub></a><br/></td>
-
- </tr>
-</table>
-
 
